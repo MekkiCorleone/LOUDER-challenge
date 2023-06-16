@@ -5,7 +5,7 @@ after I have downloaded the file with command 'wget'
 --> wget https://hubchallenges.s3-eu-west-1.amazonaws.com/Crypto/morse.wav
 # Firstly:
 I tried this command -->
-cat morse.wav | strings | grep -i flag{
+cat morse.wav | strings | grep -i flag{ \n
 to see if there is a string of the flag format inside the file but founc nothing
 # Secondly:
 I tried <a href="https://www.kali.org/tools/rtpmixsound/">rtpmixsound</a> tool
