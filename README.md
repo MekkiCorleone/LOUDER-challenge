@@ -1,12 +1,12 @@
 # LOUDER-challenge
 LOUDER challenge in cyber talents of Morse code lesson
 
-after I have downloaded the file with command 'wget'
+after I have downloaded the file with the command 'wget'
 --> wget https://hubchallenges.s3-eu-west-1.amazonaws.com/Crypto/morse.wav
 # Firstly:
 I tried this command -->
  cat morse.wav | strings | grep -i flag{ <br>
-to see if there is a string of the flag format inside the file but founc nothing
+to see if there is a string of the flag format inside the file but I found nothing
 # Secondly:
 I tried <a href="https://www.kali.org/tools/rtpmixsound/">rtpmixsound</a> tool
 as follows:
@@ -14,11 +14,11 @@ as follows:
 # Thirdly:
 I tried audacity tool, I pressed on file and opened morse.wav file
 <a href="https://ibb.co/djG5fPQ"><img src="https://i.ibb.co/9csrpbq/audacity.png" alt="audacity" border="0"></a><br /><br />
-then because of our old knowledge in morse code it is only (-) and (.)
+then because of our old knowledge of Morse code, it is only (-) and (.)
 so I wrote them based on the visual view of the waves like that ->
 <a href="https://ibb.co/z6b3660"><img src="https://i.ibb.co/qJ9HJJP/pic1.jpg" alt="pic1" border="0"></a><br /><br />
 # The End:
-I copied the info and pasted it on online morse decoder ->
+I copied the info and pasted it on the online Morse decoder ->
 <a href="https://ibb.co/Qd5rRFc"><img src="https://i.ibb.co/cLmDHcv/pic2.jpg" alt="pic2" border="0"></a><br /><br />
 
 # Friendly advice:
