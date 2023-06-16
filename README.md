@@ -13,7 +13,7 @@ as follows:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/HhwpYV1/rtpmixsound-v.png" alt="rtpmixsound-v" border="0"></a><br /><br />
 # Thirdly:
 I tried audacity tool, I pressed on file and opened morse.wav file
-<a href="https://ibb.co/djG5fPQ"><img src="https://i.ibb.co/9csrpbq/audacity.png" alt="audacity" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>share image</a><br />
+<a href="https://ibb.co/djG5fPQ"><img src="https://i.ibb.co/9csrpbq/audacity.png" alt="audacity" border="0"></a><br /><br />
 then because of our old knowledge in morse code it is only (-) and (.)
 so I wrote them based on the visual view of the waves like that ->
 <a href="https://ibb.co/z6b3660"><img src="https://i.ibb.co/qJ9HJJP/pic1.jpg" alt="pic1" border="0"></a><br /><br />
